@@ -1,0 +1,74 @@
+.header{
+	height: 50px;
+	display: inline-block;
+	background-color: white;
+}
+.elem_1{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 1px;
+	background-color: rgb(105, 155, 255);
+}
+.elem_2{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 1px;	
+	background-color: rgb(253, 154, 152);
+}
+.elem_3{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 1px;	
+	background-color: rgb(254, 203, 0);
+}
+.elem_4{
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	margin-bottom: 1px;	
+	background-color: rgb(31, 202, 33);
+}
+.numero{
+	margin-top: 7px;
+	font-size: 11px;
+	line-height: 0px;
+	text-align: center;
+}
+.simbolo{
+	line-height: 0px;
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(35, 30, 165);
+	text-align: center;
+}
+.peso{
+	line-height: 0px;
+	font-size: 11px;
+	text-align: center;
+}
+.col{
+	margin: 0px;
+	width: 50px;
+	display: inline-block;
+}
+.col_blk{
+	margin: 0px;
+	width: 10px;
+	display: inline-block;
+	background-color: white;
+}
+.row_blk{
+	margin: 0px;
+	height: 20px;
+	display: inline-block;
+	background-color: white;
+}
+.blank{
+	margin: 0px;
+	width: 50px;
+	display: inline-block;
+	background-color: white;
+}
